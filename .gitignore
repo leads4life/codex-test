@@ -1,0 +1,3 @@
+api/data/*.json
+api/data/*.lock
+.DS_Store
